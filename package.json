@@ -1,0 +1,26 @@
+{
+  "name": "spider_node",
+  "version": "1.0.0",
+  "description": "a spider for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "marico <ok@Nongshiye.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cnpm": "^5.1.1",
+    "csv2json": "^1.4.1",
+    "iconv-lite": "^0.4.19",
+    "jsonschema": "^1.2.2",
+    "mongojs": "^2.4.1",
+    "progress": "^2.0.0",
+    "request": "^2.83.0",
+    "tough-cookie-filestore": "0.0.1",
+    "trim": "0.0.1"
+  }
+}
